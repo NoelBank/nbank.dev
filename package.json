@@ -1,0 +1,23 @@
+{
+  "name": "nbank.dev",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Noel Bank",
+    "url": "https://github.com/noelbank",
+    "email": "info@nbank.dev"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "jeasx start",
+    "build": "jeasx build",
+    "dev": "jeasx dev"
+  },
+  "dependencies": {
+    "alpinejs": "3.13.5",
+    "jeasx": "0.3.0"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
